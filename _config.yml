@@ -2,6 +2,7 @@ name: ' Hexagonal'
 favicon: null
 layout_spectrum: 0.9252555966377258
 typography_spectrum: 0.17037918791174889
+title: Hexagonal
 cta:
   domain: null
   bucket: null
