@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ Hexagonal]]></title>
+        <description><![CDATA[ Hexagonal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jan 2016 20:51:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Makings of a Hive]]></title>
+            <description><![CDATA[<article><h1>The Makings of a Hive</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1301fbf6f6fbdd319b5d0b532bda08b4d8c68b7b.jpg"></article>]]></description>
+            <link>undefinedthe-makings-of-a-hive/index.html</link>
+            <guid isPermaLink="false">39309d0f-20f1-4046-a1d9-c16c23027e71</guid>
+            <pubDate>Thu, 14 Jan 2016 20:50:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
